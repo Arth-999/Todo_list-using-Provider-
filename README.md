@@ -1,6 +1,10 @@
 # todo_list
 
-A new Flutter project.
+Flutter project similar to [Todo_list](https://github.com/Arth-999/Todo_List)(has the same interface) instead this uses PROVIDER for state management. 
+
+<img src='https://github.com/Arth-999/Images/blob/main/1.jpg' width='300'>                 <img src='https://github.com/Arth-999/Images/blob/main/todo2.jpg' width='300'>                                                       <img src='https://github.com/Arth-999/Images/blob/main/todo3.jpg' width='300'>
+
+
 
 ## Getting Started
 
